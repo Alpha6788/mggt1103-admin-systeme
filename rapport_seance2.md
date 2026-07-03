@@ -9,7 +9,7 @@
 Lors du premier scan automatique avec l'outil Lynis, le système a obtenu un score initial de **60%**. Ce score s'explique par l'absence de règles de pare-feu actives, la présence de paquets obsolètes et une configuration SSH ouverte par défaut.
 
 ### Capture d'écran du Hardening Index Initial
-![Hardening Index Initial](LIEN_OU_NOM_DE_TA_PREMIERE_CAPTURE.png)
+![Hardening Index Initial](score_initial.png)
 *(Note : Remplacez ce texte ou le lien par votre première capture d'écran montrant le score de 60%)*
 
 ---
