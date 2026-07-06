@@ -18,7 +18,7 @@ Dans l'Infrastructure-as-Code (IaC), l'approche impérative consiste à définir
 
 Voici la validation de la création et du déploiement de notre infrastructure locale via Terraform. Le fichier généré `/tmp/dns_config.txt` contient bien les adresses IP configurées dynamiquement par nos variables.
 
-*(Veuillez vous référer à l'image jointe au dépôt : **TP3-1.png**)*
+![Validation TP3](TP3-1.png)
 
 ---
 
