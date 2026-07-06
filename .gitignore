@@ -1,0 +1,7 @@
+# Ignorer les répertoires de téléchargement des traducteurs
+.terraform/
+.terraform.lock.hcl
+
+# Ignorer le fichier d'état local et ses sauvegardes
+terraform.tfstate
+terraform.tfstate.backup
